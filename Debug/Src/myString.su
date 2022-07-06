@@ -1,0 +1,3 @@
+myString.c:14:7:myStrSection	16	static
+myString.c:46:7:myLongStr	16	static
+myString.c:105:6:myStrLong	8	static

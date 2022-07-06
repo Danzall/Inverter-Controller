@@ -1,0 +1,6 @@
+LCD.c:23:6:LCD_Init	48	static
+LCD.c:40:6:LCD_Service	64	static
+LCD.c:93:6:LCD_Send	40	static
+LCD.c:114:6:LCD_Print	48	static
+LCD.c:120:6:ClearScreenF	16	static
+LCD.c:136:6:LineSelect	16	static

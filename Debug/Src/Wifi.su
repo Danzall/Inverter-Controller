@@ -1,0 +1,7 @@
+Wifi.c:53:6:Wifi_Init	8	static
+Wifi.c:71:6:Wifi_Service	24	static
+Wifi.c:177:6:Wifi_Send	16	static
+Wifi.c:309:6:WifiOK	24	static
+Wifi.c:232:6:WifiprocData	24	static
+Wifi.c:188:6:WifirecData	16	static
+Wifi.c:339:6:Wifi_Receive	8	static

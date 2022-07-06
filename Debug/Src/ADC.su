@@ -1,0 +1,4 @@
+ADC.c:35:6:ADC_Service	144	static
+ADC.c:159:10:GetADC	0	static
+ADC.c:163:10:GetVolt	8	static
+ADC.c:176:10:GetCurr	8	static
